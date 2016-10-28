@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/galbraithja/Desktop/PCControls8-24-15/javacv-bin/javacv.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/galbraithja/Desktop/PCControls8-24-15/javacv-bin/javacv-windows-x86_64.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/galbraithja/Desktop/PCControls8-24-15/JInput/dist/jinput.jar"/>
+	<classpathentry kind="lib" path="C:/Users/galbraithja/Desktop/PCControls8-24-15/JInput/dist/jinput-test.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
